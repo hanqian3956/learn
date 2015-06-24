@@ -1,0 +1,2 @@
+this is a test for  git add file 
+git commit -m 'test for git add file'
